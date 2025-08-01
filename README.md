@@ -1,0 +1,2 @@
+# Image Gallary
+"Image Gallery is a simple and fast platform to search, view, and download images and videos. Find what you need with ease through smart search and enjoy high-quality previews and quick downloads. It offers a smooth and convenient image browsing experience."
